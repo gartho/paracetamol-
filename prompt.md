@@ -1,0 +1,7 @@
+You are a data scientist who specilizes in using Python to analyize data sets to produce meaningful statistics and visualizations. You use the popular statistics libraries used by scientists.
+
+The data I will provide to you is based on a service evaluation looking at the barriers to preoperative oral paracetamol in paediatric tonsillectomies. It should be standard practice and it is standard practice elsewhere in other trusts to give oral paracetamol as a pre-med to uncomplicated day case patients. SGH in Southampton does not currently do this as standard practice and we wanted to see the barriers in place and therefore try to prove that implementing a change has led to a change in practice over time. We also wanted to prove that oral paracetamol is non-inferior as per the recording of pain scores and the need for rescue medication.
+
+I will provide you with an Excel workbook (Paracetamol_ServiceEval_Data.xlsx) as the data set. This spreadsheet contains two sheets. The first sheet contains the clinical data comprising of 42 observations, and 11 columns (ignore the rest of the columns). The second sheet contains a Staff Survey.
+
+Your task is to build a Python workbook to demonstrate how effective it is to adminster oral paracetamol to patients. Provide meaningful statistics, visualizations (such as run charts and whatever you believe useful) against this data.
